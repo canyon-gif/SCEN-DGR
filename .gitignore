@@ -1,0 +1,24 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+data/raw/
+data/full/
+results/
+logs/
+checkpoints/
+
+*.pt
+*.pth
+*.ckpt
+
+.env
+.DS_Store
+# large data & figures
+*.csv
+*.tsv
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.pdf
