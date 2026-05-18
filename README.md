@@ -1,1 +1,1 @@
-# SCEN-DGR
+# SCENet
